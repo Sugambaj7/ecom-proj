@@ -1,9 +1,10 @@
 import React from 'react'
 
 const App: React.FC = () => {
+
   return (
     <div className="App">
-      <p>New Project !</p>
+      <p className="text-red-400">New Project!</p>
     </div>
   )
 }
